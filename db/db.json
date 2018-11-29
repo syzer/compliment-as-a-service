@@ -1,0 +1,408 @@
+{
+  "compliments": [
+    {
+      "text": "You're an awesome friend.",
+      "id": 1
+    },
+    {
+      "text": "You're a gift to those around you.",
+      "id": 2
+    },
+    {
+      "text": "You're a smart cookie.",
+      "id": 3
+    },
+    {
+      "text": "You are awesome!",
+      "id": 4
+    },
+    {
+      "text": "You have impeccable manners.",
+      "id": 5
+    },
+    {
+      "text": "I like your style.",
+      "id": 6
+    },
+    {
+      "text": "You have the best laugh.",
+      "id": 7
+    },
+    {
+      "text": "I appreciate you.",
+      "id": 8
+    },
+    {
+      "text": "You are the most perfect you there is.",
+      "id": 9
+    },
+    {
+      "text": "You are enough.",
+      "id": 10
+    },
+    {
+      "text": "You're strong.",
+      "id": 11
+    },
+    {
+      "text": "Your perspective is refreshing.",
+      "id": 12
+    },
+    {
+      "text": "I'm grateful to know you.",
+      "id": 13
+    },
+    {
+      "text": "You light up the room.",
+      "id": 14
+    },
+    {
+      "text": "You deserve a hug right now.",
+      "id": 15
+    },
+    {
+      "text": "You should be proud of yourself.",
+      "id": 16
+    },
+    {
+      "text": "You're more helpful than you realize.",
+      "id": 17
+    },
+    {
+      "text": "You have a great sense of humor.",
+      "id": 18
+    },
+    {
+      "text": "You've got an awesome sense of humor!",
+      "id": 19
+    },
+    {
+      "text": "You are really courageous.",
+      "id": 20
+    },
+    {
+      "text": "Your kindness is a balm to all who encounter it.",
+      "id": 21
+    },
+    {
+      "text": "You're all that and a super-size bag of chips.",
+      "id": 22
+    },
+    {
+      "text": "On a scale from 1 to 10, you're an 11.",
+      "id": 23
+    },
+    {
+      "text": "You are strong.",
+      "id": 24
+    },
+    {
+      "text": "You're even more beautiful on the inside than you are on the outside.",
+      "id": 25
+    },
+    {
+      "text": "You have the courage of your convictions.",
+      "id": 26
+    },
+    {
+      "text": "I'm inspired by you.",
+      "id": 27
+    },
+    {
+      "text": "You're like a ray of sunshine on a really dreary day.",
+      "id": 28
+    },
+    {
+      "text": "You are making a difference.",
+      "id": 29
+    },
+    {
+      "text": "Thank you for being there for me.",
+      "id": 30
+    },
+    {
+      "text": "You bring out the best in other people.",
+      "id": 31
+    },
+    {
+      "text": "If you're reading this blog post, you're someone with a kind heart. So we thought you'd enjoy this short video about how to blast your stress with kindness (especially on those rough days).",
+      "id": 32
+    },
+    {
+      "text": "Your ability to recall random factoids at just the right time is impressive.",
+      "id": 33
+    },
+    {
+      "text": "You're a great listener.",
+      "id": 34
+    },
+    {
+      "text": "How is it that you always look great, even in sweatpants?",
+      "id": 35
+    },
+    {
+      "text": "Everything would be better if more people were like you!",
+      "id": 36
+    },
+    {
+      "text": "I bet you sweat glitter.",
+      "id": 37
+    },
+    {
+      "text": "You were cool way before hipsters were cool.",
+      "id": 38
+    },
+    {
+      "text": "That color is perfect on you.",
+      "id": 39
+    },
+    {
+      "text": "Hanging out with you is always a blast.",
+      "id": 40
+    },
+    {
+      "text": "You always know -- and say -- exactly what I need to hear when I need to hear it.",
+      "id": 41
+    },
+    {
+      "text": "You help me feel more joy in life.",
+      "id": 42
+    },
+    {
+      "text": "You may dance like no one's watching, but everyone's watching because you're an amazing dancer!",
+      "id": 43
+    },
+    {
+      "text": "Being around you makes everything better!",
+      "id": 44
+    },
+    {
+      "text": "When you say, \"I meant to do that,\" I totally believe you.",
+      "id": 45
+    },
+    {
+      "text": "When you're not afraid to be yourself is when you're most incredible.",
+      "id": 46
+    },
+    {
+      "text": "Colors seem brighter when you're around.",
+      "id": 47
+    },
+    {
+      "text": "You're more fun than a ball pit filled with candy. (And seriously, what could be more fun than that?)",
+      "id": 48
+    },
+    {
+      "text": "That thing you don't like about yourself is what makes you so interesting.",
+      "id": 49
+    },
+    {
+      "text": "You're wonderful.",
+      "id": 50
+    },
+    {
+      "text": "You have cute elbows. For reals!",
+      "id": 51
+    },
+    {
+      "text": "Jokes are funnier when you tell them.",
+      "id": 52
+    },
+    {
+      "text": "You're better than a triple-scoop ice cream cone. With sprinkles.",
+      "id": 53
+    },
+    {
+      "text": "When I'm down you always say something encouraging to help me feel better.",
+      "id": 54
+    },
+    {
+      "text": "You are really kind to people around you.",
+      "id": 55
+    },
+    {
+      "text": "You're one of a kind!",
+      "id": 56
+    },
+    {
+      "text": "You help me be the best version of myself.",
+      "id": 57
+    },
+    {
+      "text": "If you were a box of crayons, you'd be the giant name-brand one with the built-in sharpener.",
+      "id": 58
+    },
+    {
+      "text": "You should be thanked more often. So thank you!!",
+      "id": 59
+    },
+    {
+      "text": "Our community is better because you're in it.",
+      "id": 60
+    },
+    {
+      "text": "Someone is getting through something hard right now because you've got their back.",
+      "id": 61
+    },
+    {
+      "text": "You have the best ideas.",
+      "id": 62
+    },
+    {
+      "text": "You always find something special in the most ordinary things.",
+      "id": 63
+    },
+    {
+      "text": "Everyone gets knocked down sometimes, but you always get back up and keep going.",
+      "id": 64
+    },
+    {
+      "text": "You're a candle in the darkness.",
+      "id": 65
+    },
+    {
+      "text": "You're a great example to others.",
+      "id": 66
+    },
+    {
+      "text": "Being around you is like being on a happy little vacation.",
+      "id": 67
+    },
+    {
+      "text": "You always know just what to say.",
+      "id": 68
+    },
+    {
+      "text": "You're always learning new things and trying to better yourself, which is awesome.",
+      "id": 69
+    },
+    {
+      "text": "If someone based an Internet meme on you, it would have impeccable grammar.",
+      "id": 70
+    },
+    {
+      "text": "You could survive a Zombie apocalypse.",
+      "id": 71
+    },
+    {
+      "text": "You're more fun than bubble wrap.",
+      "id": 72
+    },
+    {
+      "text": "When you make a mistake, you try to fix it.",
+      "id": 73
+    },
+    {
+      "text": "Who raised you? They deserve a medal for a job well done.",
+      "id": 74
+    },
+    {
+      "text": "You're great at figuring stuff out.",
+      "id": 75
+    },
+    {
+      "text": "Your voice is magnificent.",
+      "id": 76
+    },
+    {
+      "text": "The people you love are lucky to have you in their lives.",
+      "id": 77
+    },
+    {
+      "text": "You're like a breath of fresh air.",
+      "id": 78
+    },
+    {
+      "text": "You make my insides jump around in the best way.",
+      "id": 79
+    },
+    {
+      "text": "You're so thoughtful.",
+      "id": 80
+    },
+    {
+      "text": "Your creative potential seems limitless.",
+      "id": 81
+    },
+    {
+      "text": "Your name suits you to a T.",
+      "id": 82
+    },
+    {
+      "text": "Your quirks are so you -- and I love that.",
+      "id": 83
+    },
+    {
+      "text": "When you say you will do something, I trust you.",
+      "id": 84
+    },
+    {
+      "text": "Somehow you make time stop and fly at the same time.",
+      "id": 85
+    },
+    {
+      "text": "When you make up your mind about something, nothing stands in your way.",
+      "id": 86
+    },
+    {
+      "text": "You seem to really know who you are.",
+      "id": 87
+    },
+    {
+      "text": "Any team would be lucky to have you on it.",
+      "id": 88
+    },
+    {
+      "text": "In high school I bet you were voted \"most likely to keep being awesome.\"",
+      "id": 89
+    },
+    {
+      "text": "I bet you do the crossword puzzle in ink.",
+      "id": 90
+    },
+    {
+      "text": "Babies and small animals probably love you.",
+      "id": 91
+    },
+    {
+      "text": "If you were a scented candle they'd call it Perfectly Imperfect (and it would smell like summer).",
+      "id": 92
+    },
+    {
+      "text": "There's ordinary, and then there's you.",
+      "id": 93
+    },
+    {
+      "text": "You're someone's reason to smile.",
+      "id": 94
+    },
+    {
+      "text": "You're even better than a unicorn, because you're real.",
+      "id": 95
+    },
+    {
+      "text": "How do you keep being so funny and making everyone laugh?",
+      "id": 96
+    },
+    {
+      "text": "You have a good head on your shoulders.",
+      "id": 97
+    },
+    {
+      "text": "Has anyone ever told you that you have great posture?",
+      "id": 98
+    },
+    {
+      "text": "The way you treasure your loved ones is incredible.",
+      "id": 99
+    },
+    {
+      "text": "You're really something special.",
+      "id": 100
+    },
+    {
+      "text": "Thank you for being you.",
+      "id": 101
+    }
+  ]
+}
